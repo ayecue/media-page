@@ -1,0 +1,9 @@
+{
+    "presets": ["modern-browsers", "react"],
+    "plugins": ["transform-flow-strip-types"],
+    "env": {
+        "test": {
+            "presets": ["modern-browsers", "react"]
+        }
+    }
+}
